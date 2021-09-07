@@ -1,0 +1,18 @@
+﻿Functional Requirements
+This refers to the necessary tasks, action or activities that the system must accomplish, or enable
+the user to do. The voting System is a secure application voting system with
+which users can participate using their id.
+The functional requirements of the system describe the functionality or services that the system
+is expected to provide. In this case:
+
+The system (application-vote) will allow users to vote via their uid
+
+
+The system shall provide appropriate error messages and users shall be accorded
+sufficient help on how to carry on tasks.
+Authentication -The system should identify each authorized voters every time they use
+the system using a Student ID number.
+The system shall impose a successful voter determination strategy in order to determine a
+successful voter in order to avoid multi voting.
+Make vote counting convenient.
+
