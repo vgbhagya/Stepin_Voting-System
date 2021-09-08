@@ -9,7 +9,7 @@ For student login enter student id "year/branchcode/rollnumber"
 
 
 [![CI](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml)
-[![Code Quality - Static Code - Cppcheck](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/cppcheck.yml)
-[![Contribution Check - Git Inspector](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/gitinspector.yml)
-[![Unit Testing - Unity](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/unity.yml/badge.svg)](https://github.com/harshithasnayaka/Stepin_online-voting-system/actions/workflows/unity.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/gitinspector.yml)
+[![Unit Testing - Unity](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/unity.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/unity.yml)
 
