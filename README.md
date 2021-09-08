@@ -6,3 +6,6 @@ Voting is a web-based voting system that will help you manage your elections eas
 
 For Admin Panel Use Username: "admin" Password: "admin"
 For student login enter student id "year/branchcode/rollnumber"
+
+
+[![CI](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml)
