@@ -2,14 +2,12 @@
 
 ## Introducton
 
-Voting is a web-based voting system that will help you manage your elections easily and securely. This voting system can be used for casting votes during the elections held in colleges, etc. In this system the voter do not have to go to the polling booth to cast their vote. They can use their personal computer to cast their votes. There is a database which is maintained in which all the name of the voters with their complete information is stored. The System Administrator registers the voters by simply filling a registration form to register the voters. After registration, the voter is assigned a secret voter ID with which he/she can use to login to the system and cast his/her vote. If invalid/wrong details are submitted, then the person is not registered to vote.
+The proposed online voting system makes use of computer and internet which makes the overall voting procedure easy. It saves time and avoids errors such as invalid votes and miscalculation of votes. Voting and counting both are done with the help of a computer, the election process is easy, and this system proves to be much economical, compared to the manual system.
 
 For Admin Panel Use Username: "admin" Password: "admin"
 For student login enter student id "year/branchcode/rollnumber"
 
 
 [![CI](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml)
-[![Code Quality - Static Code - Cppcheck](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/cppcheck.yml)
-[![Contribution Check - Git Inspector](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/gitinspector.yml)
-[![Unit Testing - Unity](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/unity.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/unity.yml)
+
 
