@@ -9,5 +9,5 @@ For student login enter student id "year/branchcode/rollnumber"
 
 
 [![CI](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml/badge.svg)](https://github.com/vgbhagya/Stepin_Voting-System/actions/workflows/main.yml)
-
+![Code Quality Score](https://www.code-inspector.com/project/27836/score/svg)
 
